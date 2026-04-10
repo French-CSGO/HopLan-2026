@@ -33,14 +33,14 @@ All participants must be able to attend on-site.
 ### **Registration**
 
 Teams must register via [http://www.Hoplan.gg](https://hoplan.gg).  
-A registration fee of **€TBD \+ VAT** per team (covers 5 players) is required to confirm entry.  
+A registration fee of **€250 \+ VAT** per team (covers 5 players) is required to confirm entry.  
 Registration is first-come, first-served.  
-Sign-ups close automatically on July 13, 2026 at 19:59 (Paris time).
+Sign-ups close automatically on July 11, 2026 at 20:00 (Paris time).
 
 ### **Prize Pool**
 
 The prize pool is crowdfunded by team entry fees and scales with the number of registered teams.  
-24 teams → €TBD total prize pool
+24 teams → €3,000 total prize pool
 
 ## **Registration & Eligibility**
 
@@ -50,7 +50,7 @@ Open to all teams in the Global region, as defined by Valve’s official rules a
 
 ### **Sign-up Process:**
 
-Teams register on the official website. Payment of **€TBD \+ VAT** per team (covers 5 players) secures the spot. After payment, the team representative will receive the registration form via the official Hoplan Discord server, which must be completed to confirm participation.
+Teams register on the official website. Payment of **€250 \+ VAT** per team (covers 5 players) secures the spot. After payment, the team representative will receive the registration form via the official Hoplan Discord server, which must be completed to confirm participation.
 
 ### **Roster Rules:**
 
@@ -522,19 +522,19 @@ Nexus Gamers Pub is a bar venue; however, while competing, players are not allow
 
 The Hoplan 2026 tournament prize pool is a base prize pool funded by the organizer.
 
-Each team pays a registration fee of **€TBD \+ VAT**.
+Each team pays a registration fee of **€250 \+ VAT**.
 
 ### **Prize Pool by Team Count**
 
-* **24 teams:** €TBD total prize pool
+* **24 teams:** €3,000 total prize pool
 
 The more teams that register, the larger the prize pool grows.
 
-### **Prize Breakdown (%)**
+### **Prize Breakdown (€)**
 
-1st Place: TBD  
-2nd Place: TBD 
-3rd Place: TBD  
+1st Place: €1,500  
+2nd Place: €1,000 
+3rd Place: €500
 
 ### **Payment Details**
 

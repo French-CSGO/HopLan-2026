@@ -311,11 +311,17 @@ Le tournoi utilisera le pool de cartes Active Duty officiel au moment de l'évé
 Le pool de cartes comprend 7 cartes :
 
 Inferno
+
 Mirage
+
 Nuke
+
 Ancient
+
 Overpass
+
 Dust2
+
 Anubis
 
 **Processus de veto**

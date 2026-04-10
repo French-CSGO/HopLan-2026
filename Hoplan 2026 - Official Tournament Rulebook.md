@@ -14,7 +14,7 @@ This rulebook outlines all regulations, format details, and expectations for tea
 
 ### **Event Information**
 
-**Event Name:** Hoplan 2026 \- Counter-Strike 2 Open LAN
+**Event Name:** Hoplan 2026 \- Counter-Strike 2
 
 **Time Zone:** All times listed in this rulebook follow Paris local time (CET/CEST).
 
@@ -183,7 +183,7 @@ Teams must be ready on the server at least 15 minutes before the scheduled start
 
 Short breaks (5-10 minutes) will be provided between back-to-back matches, but teams must be prepared for quick transitions.
 
-The Group Stage is expected to conclude by the evening of Day 1, after which advancing teams will be briefed for the Playoffs.
+The Group Stage is expected to conclude of Day 1, after which advancing teams will be briefed for the Playoffs.
 
 ## **Playoffs (Days 1-2)**
 
@@ -208,7 +208,7 @@ All matches of Lower are Best-of-One
 
 The 16 Group Stage qualifier teams are paired in the Opening Playoff Round (BO3) as follows:
 
-| Match \# | VRS-Seeded Team | Group Stage Position |
+| Match \# | Team A | Team B |
 | ----- | ----- | ----- |
 | Match 1 | 1st Ranked Group A | 4th Ranked Group D |
 | Match 2 | 2nd Ranked Group D | 3rd Ranked Group A |

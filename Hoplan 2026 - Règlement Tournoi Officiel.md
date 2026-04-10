@@ -33,14 +33,14 @@ Tous les participants doivent être présents sur site.
 ### Inscriptions
 
 Les équipes doivent s'inscrire via [http://www.Hoplan.gg](https://hoplan.gg).
-Des frais d'inscription de **€TBD + TVA** par équipe (couvrant 5 joueurs) sont requis pour confirmer la participation.
+Des frais d'inscription de **€250 + TVA** par équipe (couvrant 5 joueurs) sont requis pour confirmer la participation.
 Les inscriptions sont traitées dans l'ordre d'arrivée.
-Les inscriptions ferment automatiquement le 13 juillet 2026 à 19h59 (heure de Paris).
+Les inscriptions ferment automatiquement le 11 juillet 2026 à 20h00 (heure de Paris).
 
 ### Prize Pool
 
 Le prize pool est financé par les frais d'inscription des équipes et évolue en fonction du nombre d'équipes inscrites.
-24 équipes → €TBD de prize pool total
+24 équipes → €3,000 de prize pool total
 
 ---
 
@@ -548,19 +548,19 @@ Le Nexus Gamers Pub est un bar ; cependant, pendant la compétition, les joueurs
 
 Le prize pool du tournoi Hoplan 2026 est un prize pool de base financé par l'organisateur.
 
-Chaque équipe paie des frais d'inscription de **€TBD + TVA**.
+Chaque équipe paie des frais d'inscription de **€250 + TVA**.
 
 ### Prize Pool selon le nombre d'équipes
 
-- **24 équipes :** €TBD de prize pool total
+- **24 équipes :** €3,000 de prize pool total
 
 Plus le nombre d'équipes inscrites est élevé, plus le prize pool augmente.
 
-### Répartition du prize pool (%)
+### Répartition du prize pool (€)
 
-1ère place : TBD
-2ème place : TBD
-3ème place : TBD
+1ère place : €1,500
+2ème place : €1,000
+3ème place : €500
 
 ### Modalités de paiement
 

@@ -33,7 +33,7 @@ All participants must be able to attend on-site.
 ### **Registration**
 
 Teams must register via [http://www.Hoplan.gg](https://hoplan.gg).  
-A registration fee of **€250 \+ VAT** per team (covers 5 players) is required to confirm entry.  
+A registration fee of **€250 \+ VAT Include** per team (covers 5 players) is required to confirm entry.  
 Registration is first-come, first-served.  
 Sign-ups close automatically on July 11, 2026 at 20:00 (Paris time).
 
@@ -50,7 +50,7 @@ Open to all teams in the Global region, as defined by Valve’s official rules a
 
 ### **Sign-up Process:**
 
-Teams register on the official website. Payment of **€250 \+ VAT** per team (covers 5 players) secures the spot. After payment, the team representative will receive the registration form via the official Hoplan Discord server, which must be completed to confirm participation.
+Teams register on the official website. Payment of **€250 \+ VAT Include** per team (covers 5 players) secures the spot. After payment, the team representative will receive the registration form via the official Hoplan Discord server, which must be completed to confirm participation.
 
 ### **Roster Rules:**
 
@@ -522,7 +522,7 @@ Nexus Gamers Pub is a bar venue; however, while competing, players are not allow
 
 The Hoplan 2026 tournament prize pool is a base prize pool funded by the organizer.
 
-Each team pays a registration fee of **€250 \+ VAT**.
+Each team pays a registration fee of **€250 \+ VAT Include**.
 
 ### **Prize Pool by Team Count**
 

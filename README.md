@@ -11,7 +11,7 @@ Hoplan is not able to guarantee prior to the event if coverage is confirmed. We 
 ## **Required Details**
 Match Dates: 18/07/2026 - 19/07/2026
 
-Signups Deadline: 16:00 GMT+0 30/10/2025 TBD
+Signups Deadline: 18:00 GMT+0 11/07/2026
 
 Tournament Operator: FragAdmin
 

@@ -1,4 +1,4 @@
-<img width="92" height="324" alt="image" src="https://github.com/user-attachments/assets/abe232eb-d85c-4870-b880-28167b90de4b" />**Hoplan 2026 \- Official Tournament Rulebook**
+**Hoplan 2026 \- Official Tournament Rulebook**
 
 ### 
 

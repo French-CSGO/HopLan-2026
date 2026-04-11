@@ -33,7 +33,8 @@ Tous les participants doivent être présents sur site.
 ### Inscriptions
 
 Les équipes doivent s'inscrire via [http://www.Hoplan.gg](https://hoplan.gg).
-Des frais d'inscription de **€250 + TVA Inclus** par équipe (couvrant 5 joueurs) sont requis pour confirmer la participation.
+Des frais d'inscription de **€250 TVA Inclus** par équipe (couvrant 5 joueurs) sont requis pour confirmer la participation.
+Tous accompagnateur devra s'acquiétais d'un supplément de **€20**
 Les inscriptions sont traitées dans l'ordre d'arrivée.
 Les inscriptions ferment automatiquement le 11 juillet 2026 à 20h00 (heure de Paris).
 
@@ -52,7 +53,7 @@ Ouvert à toutes les équipes de la région Global, telle que définie par les r
 
 ### Procédure d'inscription
 
-Les équipes s'inscrivent sur le site officiel. Le paiement de **€250 + TVA Inclus** par équipe (couvrant 5 joueurs) confirme la réservation de la place. Après paiement, le représentant de l'équipe recevra le formulaire d'inscription via le serveur Discord officiel Hoplan, qui devra être complété pour confirmer la participation.
+Les équipes s'inscrivent sur le site officiel. Le paiement de **€250 TVA Inclus** par équipe (couvrant 5 joueurs) confirme la réservation de la place. Après paiement, le représentant de l'équipe recevra le formulaire d'inscription via le serveur Discord officiel Hoplan, qui devra être complété pour confirmer la participation.
 
 ### Règles de roster
 
@@ -548,7 +549,7 @@ Le Nexus Gamers Pub est un bar ; cependant, pendant la compétition, les joueurs
 
 Le prize pool du tournoi Hoplan 2026 est un prize pool de base financé par l'organisateur.
 
-Chaque équipe paie des frais d'inscription de **€250 + TVA Inclus**.
+Chaque équipe paie des frais d'inscription de **€250 TVA Inclus**.
 
 ### Prize Pool selon le nombre d'équipes
 

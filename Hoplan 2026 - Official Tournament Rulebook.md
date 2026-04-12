@@ -438,7 +438,7 @@ If a critical bug is discovered during the event (for instance, a new one in a r
 ## **Player Equipment and Setup**
 
 **Provided Equipment:**  
-The venue will provide high performance gaming setups for all matches. Each station includes a gaming PC equipped with an AMD Ryzen 9 9800X3D processor, 32 GB DDR5 RAM at 5600 MHz, and an NVIDIA GeForce RTX 5070 Ti GPU. PCs will also have BenQ ZOWIE 400 Hz monitors, AceZone headsets, as well as electric adjustable desks and chairs for players. All systems will come with CS2 pre installed, along with necessary drivers and software.
+The venue will not provide any gaming stations. Each player must bring their own equipment (PC, peripherals, monitor, headset, etc.). Only a table, an electrically height-adjustable chair, a network connection, and a power supply will be provided on site.
 
 **Player-Provided Gear:**  
 Players must bring their own peripherals: this includes mouse, keyboard, mousepad and in-ear earphones. Bringing your own gear ensures comfort and familiarity.

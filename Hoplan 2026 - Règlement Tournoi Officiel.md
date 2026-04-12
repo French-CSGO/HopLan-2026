@@ -456,7 +456,7 @@ Si un bug critique est découvert pendant l'événement (par exemple, un nouveau
 ## Équipement des joueurs & Installation
 
 **Équipement fourni :**
-Le lieu fournira des postes de jeu haute performance pour tous les matchs. Chaque station comprend un PC gamer équipé d'un processeur AMD Ryzen 9 9800X3D, 32 Go de RAM DDR5 à 5600 MHz, et un GPU NVIDIA GeForce RTX 5070 Ti. Les PC seront également équipés de moniteurs BenQ ZOWIE 400 Hz, de casques AceZone, ainsi que de bureaux et chaises électriques réglables en hauteur pour les joueurs. Tous les systèmes seront livrés avec CS2 pré-installé, ainsi que les pilotes et logiciels nécessaires.
+Le lieu ne fournira aucun poste de jeu. Chaque joueur devra apporter son propre équipement (PC, périphériques, écran, casque, etc.). Seuls une table, une chaise électrique réglable en hauteur, une connexion réseau et une alimentation électrique seront mis à disposition sur place.
 
 **Équipement fourni par les joueurs :**
 Les joueurs doivent apporter leurs propres périphériques : souris, clavier, tapis de souris et écouteurs intra-auriculaires. Utiliser son propre équipement garantit confort et familiarité.

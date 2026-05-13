@@ -40,7 +40,7 @@ Registrations automatically close on **July 11, 2026 at 8:00 PM (Paris time)**.
 
 ### Prize Pool
 
-The prize pool is funded by team registration fees and grows based on the number of registered teams.
+The total prize pool for the event is **€4,000**.
 32 teams → **€4,000 total prize pool**
 
 ---

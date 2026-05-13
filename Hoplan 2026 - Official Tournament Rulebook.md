@@ -481,7 +481,7 @@ By participating in the event, players consent to being photographed or filmed b
 This is a LAN environment in a public venue. Players must take care of their personal belongings; the organizer is not responsible for lost or stolen items (a secure storage space may be provided to teams upon request). Please respect venue property, as any damage caused by a player will be the team's responsibility. Respect all safety rules (e.g., emergency exits, no indoor smoking). We encourage players to stay hydrated and get sufficient rest.
 
 **Alcohol/Drugs:**
-Le Point D'eau Ostwald is a bar; however, during competition, players are not permitted to consume alcohol. Any player appearing intoxicated may be reprimanded or removed by admins for their own safety and fair play. The use of any illegal drugs is absolutely prohibited on the premises.
+During competition, players are not permitted to consume alcohol. Any player appearing intoxicated may be reprimanded or removed by admins for their own safety and fair play. The use of any illegal drugs is absolutely prohibited on the premises.
 
 ---
 

@@ -291,7 +291,7 @@ All matches use a veto/pick system to determine maps and starting sides, in acco
 
 All participating teams will be seeded by the Organizer before the start of the tournament based on VRS, HLTV ranking, and competitive results.
 
-In each match (Group Stage and Playoffs), the higher-seeded team is the team from the higher-value pool and always has priority to choose the map veto order.
+In each match (Group Stage and Playoffs), the higher-seeded team (lower seed number) always has priority to choose the map veto order.
 
 ### Best-of-1 (BO1) Pick/Ban Process
 

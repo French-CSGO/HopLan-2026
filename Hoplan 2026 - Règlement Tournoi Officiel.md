@@ -503,7 +503,7 @@ En participant à l'événement, les joueurs consentent à être photographiés 
 Il s'agit d'un environnement LAN dans un lieu public. Les joueurs doivent prendre soin de leurs affaires personnelles ; l'organisateur n'est pas responsable des objets perdus ou volés (un espace de stockage sécurisé peut être fourni aux équipes sur demande). Veuillez respecter les biens du lieu, car tout dommage causé par un joueur sera de la responsabilité de l'équipe. Respectez toutes les règles de sécurité (ex : sorties de secours, interdiction de fumer en intérieur). Nous encourageons les joueurs à rester hydratés et à se reposer suffisamment.
 
 **Alcool/Drogues :**
-Le Nexus Gamers Pub est un bar ; cependant, pendant la compétition, les joueurs ne sont pas autorisés à consommer de l'alcool. Tout joueur semblant en état d'ivresse pourra être réprimandé ou retiré par les admins pour sa propre sécurité et l'équité du jeu. L'usage de toute drogue illégale est absolument interdit dans les locaux.
+Pendant la compétition, les joueurs ne sont pas autorisés à consommer de l'alcool. Tout joueur semblant en état d'ivresse pourra être réprimandé ou retiré par les admins pour sa propre sécurité et l'équité du jeu. L'usage de toute drogue illégale est absolument interdit dans les locaux.
 
 ---
 

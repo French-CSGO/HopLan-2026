@@ -82,7 +82,7 @@ By registering, teams agree to comply with all venue rules and tournament polici
 Hoplan 2026 takes place over two days, with a Swiss Round group stage and a double-elimination playoffs bracket. With 32 teams registered at the deadline, the format is structured as follows:
 
 **Day 1 – Group Stage:**
-32 teams compete in a Swiss system over 5 rounds, Best-of-1 only. All teams reaching 3 wins advance to Playoffs; all 5 rounds are played.
+32 teams compete in a Swiss system over 5 rounds, Best-of-1 only. All 5 rounds are played, and the top 16 teams in the final Swiss standings advance to Playoffs.
 
 **Days 1–2 – Playoffs:**
 A 16-team double-elimination bracket begins, featuring the 16 teams that qualified from the Group Stage.

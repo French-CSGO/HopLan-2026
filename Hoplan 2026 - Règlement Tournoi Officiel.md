@@ -145,7 +145,7 @@ La Phase de Groupes devrait se termine dans la journée du Jour 1, après quoi l
 ### Participants
 
 16 équipes au total :
-16 équipes qualifiées depuis la Phase de Groupes (top 4 de chaque groupe).
+16 équipes qualifiées depuis la Phase de Groupes (les 16 équipes ayant obtenu 3 victoires en Phase de Groupes).
 
 ### Format du bracket
 
@@ -155,7 +155,8 @@ Les équipes ne sont éliminées qu'après deux défaites.
 
 ### Format des matchs
 
-Tous les matchs de l'Upper Bracket sont en Best-of-3, y compris la Grande Finale.
+Le 8ème est en Best-of-1
+Le reste des matchs de l'Upper Bracket sont en Best-of-3, y compris la Grande Finale.
 Tous les matchs du Lower Bracket sont en Best-of-1.
 
 **Seed**
@@ -514,14 +515,14 @@ Chaque équipe paie des frais d'inscription de **€250 TVA Inclus**.
 
 ### Prize Pool selon le nombre d'équipes
 
-- **24 équipes :** €3,000 de prize pool total
+- **32 équipes :** €4,000 de prize pool total
 
 Plus le nombre d'équipes inscrites est élevé, plus le prize pool augmente.
 
 ### Répartition du prize pool (€)
 
-1ère place : €2,000
-2ème place : €1,000
+1ère place : €2,250
+2ème place : €1,250
 3ème place : €500
 
 ### Modalités de paiement

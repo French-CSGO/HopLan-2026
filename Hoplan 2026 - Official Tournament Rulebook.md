@@ -155,8 +155,8 @@ Teams are eliminated only after two losses.
 
 ### Match Format
 
-Match 8 (Quarter-Final) is Best-of-1.
-All other Upper Bracket matches are Best-of-3, including the Grand Final.
+All first-round Upper Bracket matches (Matches 1–8) are Best-of-1.
+All subsequent Upper Bracket matches are Best-of-3, including the Grand Final.
 All Lower Bracket matches are Best-of-1.
 
 ### Seeding

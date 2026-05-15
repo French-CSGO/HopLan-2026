@@ -26,7 +26,7 @@ Ce règlement détaille l'ensemble des règles, le format et les attentes envers
 
 ### Capacité maximale
 
-Le nombre maximum de participants est fixé à 24 équipes. Les inscriptions sont ouvertes à toutes les équipes sur la base du premier arrivé, premier servi.
+Le nombre maximum de participants est fixé à 32 équipes. Les inscriptions sont ouvertes à toutes les équipes sur la base du premier arrivé, premier servi.
 Chaque équipe est composée de 5 joueurs, avec la possibilité d'avoir 1 coach.
 Tous les participants doivent être présents sur site.
 
@@ -41,7 +41,7 @@ Les inscriptions ferment automatiquement le 11 juillet 2026 à 20h00 (heure de P
 ### Prize Pool
 
 Le prize pool est financé par les frais d'inscription des équipes et évolue en fonction du nombre d'équipes inscrites.
-24 équipes → €3,000 de prize pool total
+32 équipes → €4,000 de prize pool total
 
 ---
 
@@ -79,10 +79,10 @@ En s'inscrivant, les équipes acceptent de respecter toutes les règles du lieu 
 
 ### Aperçu des phases
 
-Hoplan 2026 se déroule sur deux jours, avec une phase de groupes en Round Robin et un bracket de playoffs en double élimination. Avec 24 équipes inscrites à la date limite, le format est structuré comme suit :
+Hoplan 2026 se déroule sur deux jours, avec une phase de groupes en Ronde Swiss et un bracket de playoffs en double élimination. Avec 32 équipes inscrites à la date limite, le format est structuré comme suit :
 
 **Jour 1 – Phase de Groupes :**
-24 équipes s'affrontent dans 4 groupes Round Robin de 6 équipes chacun. Le Top 4 de chaque groupe accède aux Playoffs Élite, et les deux derniers aux Playoffs Amateur.
+32 équipes s'affrontent dans un ronde swiss en 5 rondes uniquement en Bo1, toutes équipes en 3 victoires passe en playoffs et les 5 rondes sont jouer
 
 **Jours 1-2 – Playoffs :**
 Un bracket de double élimination à 16 équipes débute, regroupant les 16 équipes qualifiées depuis la Phase de Groupes.
@@ -93,80 +93,41 @@ Un bracket de double élimination à 16 équipes débute, regroupant les 16 équ
 
 ### Participants
 
-24 équipes (toutes les équipes inscrites).
+32 équipes (toutes les équipes inscrites).
 
 ### Constitution des groupes
 
-Les équipes sont réparties en 4 groupes de 6, selon un système de tirage au sort seedé. Le seed est basé sur une répartition en six chapeaux \[l'attribution des chapeaux est basée sur l'évaluation de l'organisateur (classement VRS, classement HLTV, Elo Faceit, résultats compétitifs)\] :
+Les équipes sont réparties selon leur seed. Le seed est basé sur l'évaluation de l'organisateur (classement VRS, classement HLTV, Elo Faceit, résultats compétitifs)\] :
 
-**Chapeau 1 :** Les 4 meilleures équipes.
-
-**Chapeau 2 :** Les 4 équipes suivantes.
-
-**Chapeau 3 :** Les 4 équipes suivantes.
-
-**Chapeau 4 :** Les 4 équipes suivantes.
-
-**Chapeau 5 :** Les 4 équipes suivantes.
-
-**Chapeau 6 :** Les 4 équipes restantes.
-
-Chaque groupe contiendra exactement une équipe de chaque chapeau. Le tirage au sort en direct aura lieu le 13 juillet.
-
-### Format des groupes (Round Robin)
+### Format des groupes (Ronde Swiss)
 
 5 tours : Best-of-1
 
 ### Règles des matchs
 
-Les prolongations sont désactivées pour tous les matchs ; les matchs nuls sont possibles.
-
-Selon le résultat du match, un nombre différent de points sera attribué :
-
-● Une victoire rapporte 3 points
-
-● Un match nul vaut 1 point
-
-● Une défaite rapporte 0 point
+Les prolongations sont activé pour tous les matchs.
 
 Les critères pour déterminer le classement au sein d'un groupe sont les suivants :
 
-● Nombre de points le plus élevé obtenu en phase de groupes
+● Nombre de Victoire
+● Système Buchholz
+● Différence de points
 
-#### Critères de départage en phase de groupes
+### Règles des prolongations
 
-Si plusieurs participants sont à égalité à la fin de la phase de groupes, leur classement sera déterminé comme suit.
-Pour les scores des sets, chaque période de prolongation sera comptabilisée avec un score de 13-12 pour le vainqueur. Les scores réels des prolongations ne sont pris en compte qu'aux points 11 et 12.
-Si, après l'application des points 1 à 9, le nombre de participants à égalité est réduit ou divisé en plusieurs groupes, les participants toujours à égalité seront à nouveau comparés en repartant du premier point.
+Si le score est 12-12 à la fin du temps réglementaire, des prolongations seront jouées.
 
-1. Points accumulés entre les participants à égalité (victoire en confrontation directe > défaite en confrontation directe)
-2. Différence de cartes entre les participants à égalité (3:2 > 3:3)
-3. Nombre de cartes gagnées entre les participants à égalité (3:3 > 2:2)
-4. Différence globale de cartes
-5. Nombre total de cartes gagnées
-6. Différence de score de rounds entre les participants à égalité (23:21 > 23:22)
-7. Nombre de rounds gagnés entre les participants à égalité (24:22 > 23:21)
-8. Différence globale de score de rounds (39:31 > 40:33)
-9. Nombre global de rounds gagnés (40:32 > 39:31)
+**Format des prolongations :** MR3. Chaque équipe joue 3 rounds par côté.
 
-Si les points ci-dessus ne permettent pas de départager (ce qui ne peut se produire qu'en cas d'égalité à trois ou cinq équipes), des prolongations seront jouées entre les équipes à égalité jusqu'à ce qu'il n'y ait plus d'égalité pour la qualification ou le classement. Les autres égalités ne seront pas résolues par des prolongations, mais les gains des classements partagés seront distribués entre les équipes concernées.
-L'ordre des matchs supplémentaires sera déterminé avant le début du premier match. Le premier affrontement est déterminé aléatoirement. L'affrontement suivant sera choisi par la Ligue en fonction de la nature de l'égalité et de l'importance du classement (par exemple, si l'égalité concerne un groupe où seule la première place compte et implique les rangs 1 à 3, le deuxième match opposera le vainqueur du premier match).
+**Argent de départ en prolongation :** 10 000 €
 
-Les prolongations se jouent sur la même carte, déterminée par un système de veto. L'ordre du processus de veto est ABCCBA, et la carte restante est jouée ; les équipes A/B/C sont déterminées aléatoirement. Les côtés sont déterminés aléatoirement pour le premier match ; ensuite, chaque équipe doit commencer de l'autre côté.
+Les équipes changent de côté après 3 rounds.
 
-Aucune prolongation ne peut se terminer sur un match nul ; le jeu continue jusqu'à ce qu'un vainqueur soit désigné. Le résultat d'un match avec plusieurs prolongations sera toujours comptabilisé 4-3 pour tous les classements.
-Si, après l'une des étapes 10 à 12, le nombre d'équipes à égalité est réduit ou divisé en différents groupes, le processus de départage redémarre à partir de l'étape 10 :
-
-11. Classement basé sur la différence victoires-défaites en prolongation de départage.
-12. Classement basé sur la différence de points par set en prolongation de départage.
-13. Classement basé sur le nombre de sets gagnés en prolongation de départage.
-
-Si des égalités persistent, la prolongation de départage est rejouée.
-Dans des cas particuliers, l'administration du tournoi peut décider d'une autre méthode pour déterminer l'ordre en cas d'égalité persistante (par exemple, un tirage à pile ou face).
+Si l'égalité persiste après une prolongation, des périodes de prolongation supplémentaires sont jouées jusqu'à ce qu'un vainqueur soit désigné.
 
 ### Qualification
 
-Le Top 4 de chaque groupe se qualifie pour les Playoffs, soit un total de 16 équipes qualifiées.
+Toutes équipes en 3 victoire se qualifie pour les Playoffs, soit un total de 16 équipes qualifiées.
 
 ### Calendrier de la phase de groupes
 
@@ -184,7 +145,7 @@ La Phase de Groupes devrait se termine dans la journée du Jour 1, après quoi l
 ### Participants
 
 16 équipes au total :
-16 équipes qualifiées depuis la Phase de Groupes (top 4 de chaque groupe).
+16 équipes qualifiées depuis la Phase de Groupes (les 16 équipes ayant obtenu 3 victoires en Phase de Groupes).
 
 ### Format du bracket
 
@@ -194,7 +155,8 @@ Les équipes ne sont éliminées qu'après deux défaites.
 
 ### Format des matchs
 
-Tous les matchs de l'Upper Bracket sont en Best-of-3, y compris la Grande Finale.
+Le 8ème est en Best-of-1
+Le reste des matchs de l'Upper Bracket sont en Best-of-3, y compris la Grande Finale.
 Tous les matchs du Lower Bracket sont en Best-of-1.
 
 **Seed**
@@ -203,14 +165,14 @@ Les 16 équipes qualifiées de la Phase de Groupes sont appariées pour le Premi
 
 | Match \# | Team A | Team B |
 | ----- | ----- | ----- |
-| Match 1 | 1er du Groupe A | 4ème du Groupe D |
-| Match 2 | 2ème du Groupe D | 3ème du Groupe A |
-| Match 3 | 1er du Groupe D | 4ème du Groupe A |
-| Match 4 | 2ème du Groupe A | 3ème du Groupe D |
-| Match 5 | 2ème du Groupe B | 3ème du Groupe C |
-| Match 6 | 1er du Groupe C | 4ème du Groupe B |
-| Match 7 | 2ème du Groupe C | 3ème du Groupe B |
-| Match 8 | 1er du Groupe B | 4ème du Groupe C |
+| Match 1 | 1er | 16ème |
+| Match 2 | 8ème | 9ème |
+| Match 3 | 4ème | 13ème |
+| Match 4 | 5ème | 12ème |
+| Match 5 | 2ème | 15ème |
+| Match 6 | 7ème | 10ème |
+| Match 7 | 3ème | 14ème |
+| Match 8 | 6ème | 11ème |
 
 ---
 
@@ -333,7 +295,7 @@ Tous les matchs utilisent un système de veto/pick pour déterminer les cartes e
 
 ## Détermination du seed
 
-Toutes les équipes participantes seront réparties par l'Organisateur avant le début du tournoi dans quatre chapeaux (le Chapeau 1 contenant les équipes les mieux classées, le Chapeau 2 les deuxièmes meilleures, etc.) sur la base du VRS, du classement HLTV et des résultats compétitifs.
+Toutes les équipes participantes seront réparties par l'Organisateur avant le début du tournoi sur la base du VRS, du classement HLTV et des résultats compétitifs.
 
 Dans chaque match (Phase de Groupes et Playoffs), l'équipe avec le seed le plus élevé est l'équipe appartenant au chapeau de valeur supérieure et a toujours la priorité pour choisir l'ordre du veto de cartes.
 
@@ -541,7 +503,7 @@ En participant à l'événement, les joueurs consentent à être photographiés 
 Il s'agit d'un environnement LAN dans un lieu public. Les joueurs doivent prendre soin de leurs affaires personnelles ; l'organisateur n'est pas responsable des objets perdus ou volés (un espace de stockage sécurisé peut être fourni aux équipes sur demande). Veuillez respecter les biens du lieu, car tout dommage causé par un joueur sera de la responsabilité de l'équipe. Respectez toutes les règles de sécurité (ex : sorties de secours, interdiction de fumer en intérieur). Nous encourageons les joueurs à rester hydratés et à se reposer suffisamment.
 
 **Alcool/Drogues :**
-Le Nexus Gamers Pub est un bar ; cependant, pendant la compétition, les joueurs ne sont pas autorisés à consommer de l'alcool. Tout joueur semblant en état d'ivresse pourra être réprimandé ou retiré par les admins pour sa propre sécurité et l'équité du jeu. L'usage de toute drogue illégale est absolument interdit dans les locaux.
+Pendant la compétition, les joueurs ne sont pas autorisés à consommer de l'alcool. Tout joueur semblant en état d'ivresse pourra être réprimandé ou retiré par les admins pour sa propre sécurité et l'équité du jeu. L'usage de toute drogue illégale est absolument interdit dans les locaux.
 
 ---
 
@@ -553,15 +515,15 @@ Chaque équipe paie des frais d'inscription de **€250 TVA Inclus**.
 
 ### Prize Pool selon le nombre d'équipes
 
-- **24 équipes :** €3,000 de prize pool total
+- **32 équipes :** €4,000 de prize pool total
 
 Plus le nombre d'équipes inscrites est élevé, plus le prize pool augmente.
 
 ### Répartition du prize pool (€)
 
-1ère place : €1,500
-2ème place : €1,000
-3ème place : €500
+1ère place : €1,700
+2ème place : €1,200
+3ème place : €600
 
 ### Modalités de paiement
 

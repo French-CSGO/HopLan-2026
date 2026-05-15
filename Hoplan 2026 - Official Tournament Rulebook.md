@@ -1,580 +1,549 @@
-**Hoplan 2026 \- Official Tournament Rulebook**
+# Hoplan 2026 – Official Tournament Rulebook
 
-### 
+---
 
-### **Event Overview**
+### Event Overview
 
-The Hoplan tournament is organized by FragAdmin (Nono & Iwhite), a French organisation.
+The Hoplan tournament is organized by FragAdmin (Nono & Iwhite), a French esports organization.
 
-Hoplan is a Tier 2 Valve Regional Standings (VRS) ranked Counter-Strike 2 tournament with an open LAN format. This event provides a grassroots competitive experience in France, welcoming any team ready to compete.
+Hoplan is a Counter-Strike 2 Tier 2 tournament ranked in the Valve Regional Standings (VRS), offered in an open LAN format. This event provides a competitive on-site experience in France and is open to any team ready to compete.
 
-As a VRS-ranked event, Hoplan adheres to Valve’s rules for ranked tournaments, ensuring a fair structure for invites and qualifiers. The Valve Regional Standings (VRS) is the official ranking system used by Valve to gauge team performance and determine invitations for CS2 events.
+As a VRS-ranked event, Hoplan adheres to Valve's regulations for ranked tournaments, ensuring a fair structure for seedings and qualifications. The Valve Regional Standings (VRS) is the official ranking system used by Valve to evaluate team performance and determine invitations to CS2 events.
 
-This rulebook outlines all regulations, format details, and expectations for teams participating in Hoplan.
+This rulebook details all rules, format, and expectations for teams participating in Hoplan.
 
-### **Event Information**
+### Event Information
 
-**Event Name:** Hoplan 2026 \- Counter-Strike 2
+**Event Name:** Hoplan 2026 – Counter-Strike 2
 
-**Time Zone:** All times listed in this rulebook follow Paris local time (CET/CEST).
+**Time Zone:** All times stated in this rulebook follow Paris local time (CET/CEST).
 
-**Tier & Sanctioning:** Tier 2 VRS-ranked event (results contribute to Valve’s regional standings)
+**Tier & Standing:** Tier 2 VRS-ranked event (results contribute to Valve's regional ranking)
 
-**Dates:** 18-19 July
+**Dates:** July 18–19
 
-**Location:** Le Point D'eau Ostwald, Strasbourg, France
+**Venue:** Le Point D'eau Ostwald, Strasbourg, France
 
-### **Team Cap**
+### Maximum Capacity
 
-A maximum of 24 teams may participate. Registration is open to any team on a first-come, first-served basis.  
-Each team consists of 5 players, with the option to have 1 coach.  
-All participants must be able to attend on-site.
+The maximum number of participants is set at **32 teams**. Registrations are open to all teams on a first-come, first-served basis.
+Each team consists of 5 players, with the option of 1 coach.
+All participants must be present on-site.
 
-### **Registration**
+### Registration
 
-Teams must register via [http://www.Hoplan.gg](https://hoplan.gg).  
-A registration fee of **€250 VAT Include** per team (covers 5 players) is required to confirm entry. 
-All accompanying persons must pay an additional **€20**.
-Registration is first-come, first-served.  
-Sign-ups close automatically on July 11, 2026 at 20:00 (Paris time).
+Teams must register at [http://www.Hoplan.gg](https://hoplan.gg).
+A registration fee of **€250 VAT included** per team (covering 5 players) is required to confirm participation.
+Any accompanist must pay an additional fee of **€20**.
+Registrations are processed in order of arrival.
+Registrations automatically close on **July 11, 2026 at 8:00 PM (Paris time)**.
 
-### **Prize Pool**
+### Prize Pool
 
-The prize pool is crowdfunded by team entry fees and scales with the number of registered teams.  
-24 teams → €3,000 total prize pool
+The total prize pool for the event is **€4,000**.
+32 teams → **€4,000 total prize pool**
 
-## **Registration & Eligibility**
+---
 
-### **Team Eligibility:**
+## Registration & Eligibility
 
-Open to all teams in the Global region, as defined by Valve’s official rules and regulations. No prior qualification or minimum rank is required; however, all players must have valid CS2 accounts in good standing (no VAC bans). Players should be at least 16 years old (players under 18 may require parental consent per local regulations).
+### Team Eligibility
 
-### **Sign-up Process:**
+Open to all teams from the Global region as defined by Valve's official rules and regulations. No prior qualification or minimum rank is required; however, all players must have valid, in-good-standing CS2 accounts (no VAC bans). Players must be at least 16 years old (under-18 players may require parental consent per local regulations).
 
-Teams register on the official website. Payment of **€250 VAT Include** per team (covers 5 players) secures the spot. After payment, the team representative will receive the registration form via the official Hoplan Discord server, which must be completed to confirm participation.
+### Registration Procedure
 
-### **Roster Rules:**
+Teams register on the official website. Payment of **€250 VAT included** per team (covering 5 players) confirms the reservation of the slot. After payment, the team representative will receive the registration form via the official Hoplan Discord server, which must be completed to confirm participation.
 
-Teams may register up to 5 players. The roster is locked fourteen days before the event. After this date teams must retain their registered core (3 out of the 5 initially registered players).
+### Roster Rules
 
-### **VRS Seeding:**
+Teams may register up to 5 players. The roster is locked fourteen days before the event. After this deadline, teams must retain their core lineup (3 of the 5 initially registered players).
 
-In line with Valve’s guidelines for Tier 2 events, **Hoplan 2026** will use VRS rankings to seed teams into the Main Event. Once registration closes (approximately one weeks before the event).
+### VRS Seeding
 
-The seeding shall be based on the **official VRS rankings released by Valve in July**. This seeding is applied regardless of whether a registered team is in the VRS top 12, as the restriction on inviting top 12 teams applies only to closed or direct invitation formats, not to open sign-up events. All registered teams will begin in the Open LAN Group Stage on Day 1 to earn their place in Bracket Stage.
+In accordance with Valve's guidelines for Tier 2 events, **Hoplan 2026** will use VRS rankings to seed teams into the main event once registrations close (approximately one week before the event).
 
-### **Check-in:**
+The seed will be based on the **official VRS rankings published by Valve in July**. This seeding is applied regardless of whether a registered team appears in the VRS top 12, as the restriction on inviting top-12 teams applies only to closed or direct-invitation formats, not to open-registration events. All registered teams will start in the Open LAN Group Stage on Day 1 to qualify for the Bracket Phase.
 
-Teams must check in at the venue on Day 1 by the designated time (exact schedule to be provided and available on the [http://www.Hoplan.gg](https://hoplan.gg) website). All team members should be on-site and ready at least one hour before their first match. Any team that fails to check in on time may be disqualified.
+### Check-in
 
-### **On-site Conduct:**
+Teams must check in at the venue on Day 1 before the designated time (the exact schedule will be communicated and available at [http://www.Hoplan.gg](https://hoplan.gg)). All team members must be on-site and ready at least one hour before their first match. Any team that fails to check in on time may be disqualified.
 
-By registering, teams agree to abide by all venue rules and tournament policies. Players are expected to maintain respect towards staff, opponents, and the facility. Any team unable to attend must notify the organizers as soon as possible (no later than 14 days before the event); registration fees are non-refundable for no-shows or late withdrawals. If a team withdraws within 14 days of the event or after the event has started, they will automatically forfeit their spot and all scheduled matches. All such matches will be considered losses in the tournament structure.
+### On-site Conduct
 
-## **Tournament Format**
+By registering, teams agree to comply with all venue rules and tournament policies. Players must show respect toward staff, opponents, and facilities. Any team unable to participate must notify the organizers as soon as possible (at the latest 14 days before the event); registration fees are non-refundable in the case of no-shows or late withdrawals. If a team withdraws within the 14 days preceding the event or after it has begun, they automatically forfeit their slot and all scheduled matches. All such matches will be recorded as losses in the tournament structure.
 
-### **Overview of Stages**
+---
 
-Hoplan 2026 spans two days, featuring a Round Robin-style group stage and a double-elimination playoff bracket. With 24 teams signed up by the registration cutoff date, the format is structured as follows:
+## Tournament Format
 
-**Day 1 \- Group Stage:**  
-24 teams compete in 4 Round Robin groups of 6 teams each. Group Top 4 advance to the Playoffs Elite and Last two in Playoffs Amator.
+### Phase Overview
 
-**Days 1-2 \- Playoffs:**  
-A 16-team double-elimination bracket begins, combining the 16 advancing teams from the Group Stage.
+Hoplan 2026 takes place over two days, with a Swiss Round group stage and a double-elimination playoffs bracket. With 32 teams registered at the deadline, the format is structured as follows:
 
-## **Group Stage (Day 1\)**
+**Day 1 – Group Stage:**
+32 teams compete in a Swiss system over 5 rounds, Best-of-1 only. All 5 rounds are played, and the top 16 teams in the final Swiss standings advance to Playoffs.
 
-### **Participants:**
+**Days 1–2 – Playoffs:**
+A 16-team double-elimination bracket begins, featuring the 16 teams that qualified from the Group Stage.
 
-24 teams (all registered teams).
+---
 
-### **Group Formation:**
+## Group Stage (Day 1)
 
-Teams are divided into 4 groups of 6, using a seeded draw system. Seeding is based on a six-pot allocation \[pot allocation is based on organizer evaluation (VRS rank, HLTV rank, Faceit Elo, competitive results)\]:
+### Participants
 
-**Pot 1:** Top 4 teams.
+32 teams (all registered teams).
 
-**Pot 2:** Next 4 teams.
+### Seeding
 
-**Pot 3:** Following 4 teams.
+Teams are seeded according to the organizer's evaluation (VRS ranking, HLTV ranking, Faceit Elo, competitive results).
 
-**Pot 4:** Following 4 teams.
+### Group Format (Swiss Round)
 
-**Pot 5:** Following 4 teams.
+5 rounds – Best-of-1
 
-**Pot 6:** Remaining 4 teams.
+### Match Rules
 
-Each group will contain exactly one team from each pot. The live draw will be held on July 13th.
+Overtime is enabled for all matches.
 
-### **Group Format (Round Robin):**
+Ranking criteria within the Swiss system are as follows:
 
-5 rounds: Best-of-1
+- Number of wins
+- Buchholz system
+- Points difference
 
-### **Match Rules:**
+### Overtime Rules
 
-Overtime is disable for all matches; draws are possible.  
+If the score is 12-12 at the end of regulation, overtime will be played.
 
-Depending on whether the team won, lost or drew, a different number of points will be awarded.
+**Overtime format:** MR3. Each team plays 3 rounds per side.
 
-● A victory earns 3 points
+**Starting money in overtime:** €10,000
 
-● A draw is worth 1 point
+Teams switch sides after 3 rounds.
 
-● A defeat earns 0 points.
+If the tie persists after one overtime period, additional overtime periods are played until a winner is determined.
 
-The criteria for determining the ranking within a group are as follows:
+### Qualification
 
-● Highest number of points obtained in the group stage
+All teams reaching 3 wins qualify for Playoffs — a total of 16 teams qualify.
 
+### Group Stage Schedule
 
-#### **Tie-breaking criteria in the group stage:**
+Group Stage matches will be organized in waves across available stations to ensure all matches are completed on Day 1.
+Teams must be ready on the server at least 15 minutes before their scheduled start time.
 
-If several participants are tied in terms of win/loss difference at the end of the group stage, their ranking will be determined
-as follows.
-For set scores, each overtime period will be counted with a score of 13-12 for the winner. The actual overtime scores are only
-taken into account at points 11 and 12.
-If, after the application of points 1 to 9, the number of participants with equal numbers is reduced or divided into several
-groups of participants with equal numbers, the participants still with equal numbers will be compared again starting with the
-first point.
-1. Points accumulated between participants tied on points (win in head-to-head match > loss in head-to-head match)
-2. Difference in cards between participants with a tie (3:2 cards > 3:3 cards)
-3. Number of cards won between participants tied (3:3 cards > 2:2 cards)
-4. Overall map difference
-5. Total number of cards won
-6. Difference in round scores between tied participants (23:21 > 23:22)
-7. Number of rounds won between tied participants (24:22 > 23:21)
-8. Overall round score difference (39:31 > 40:33)
-9. Overall number of rounds won (40:32 > 39:31)
-    
-If the above points do not allow for a tiebreaker (this can only occur in the event of a three- or five-way tie), overtime will be
-played between the tied teams until there are no more ties relevant to qualification or ranking. Other ties will not be resolved
-by overtime, but the gains from shared rankings will be distributed among the tied teams.
-The order of the extra matches will be determined before the start of the first match. The first matchup is determined
-randomly. The next matchup will be chosen by the League based on the nature of the tie and the importance of the standings
-(for example, if the tie occurs in a group where only first place counts and the tie involves ranks 1 to 3, the second match will
-be between the winner of the first match).
+Short breaks (5–10 minutes) will be granted between consecutive matches, but teams must be prepared for quick transitions.
 
-Overtime will be played on the same map, which will be determined by a veto system. The order of the map veto process is
-ABCCBA, and the remaining map is played; teams A/B/C are determined randomly. The sides are determined randomly for
-the first match; thereafter, each team must start on the other side (which determines the choice of sides for subsequent
-matches).
+The Group Stage is expected to conclude on Day 1, after which qualifying teams will be notified for Playoffs.
 
-No extra time can end in a draw; play continues until a winner is determined. The result of a match with multiple extra times
-will always be counted as 4-3 for all standings.
-If, after any of the steps 10 to 12, the number of tied teams is reduced or divided into different groups of tied teams, the
-tie-breaking process will be restarted from step 10:
+---
 
-11. Ranking based on win-loss difference in tiebreaker overtime.
-12. Ranking based on point difference per set during tiebreaker overtime.
-13. Ranking based on the number of sets won in tiebreaker overtime.
-If ties remain, the tie-breaking overtime is replayed.
-In special cases, the tournament administration may decide on another method to determine the order in case of a persistent
-tie (for example, a coin toss).
+## Playoffs (Days 1–2)
 
+### Participants
 
-### **Advancement:**
+16 teams in total:
+16 teams qualified from the Group Stage (the 16 teams that reached 3 wins in the Group Stage).
 
-The group Top4 from each group advance to the Playoffs, making a total of 16 advancing teams.
+### Bracket Format
 
-### **Group Scheduling:**
+Double Elimination Bracket
 
-Group stage matches will be conducted in waves across available setups to ensure all matches can be completed within Day 1\.  
-Teams must be ready on the server at least 15 minutes before the scheduled start time.
+Teams are eliminated only after two losses.
 
-Short breaks (5-10 minutes) will be provided between back-to-back matches, but teams must be prepared for quick transitions.
+### Match Format
 
-The Group Stage is expected to conclude of Day 1, after which advancing teams will be briefed for the Playoffs.
+All first-round Upper Bracket matches (Matches 1–8) are Best-of-1.
+All subsequent Upper Bracket matches are Best-of-3, including the Grand Final.
+All Lower Bracket matches are Best-of-1.
 
-## **Playoffs (Days 1-2)**
+### Seeding
 
-### **Participants:**
+The 16 qualified teams from the Group Stage are paired for the first round of Playoffs as follows:
 
-16 teams total:  
-16 teams advancing from the Group Stage (top 4 of each group).
+| Match # | Team A | Team B |
+| ------- | ------ | ------ |
+| Match 1 | 1st    | 16th   |
+| Match 2 | 8th    | 9th    |
+| Match 3 | 4th    | 13th   |
+| Match 4 | 5th    | 12th   |
+| Match 5 | 2nd    | 15th   |
+| Match 6 | 7th    | 10th   |
+| Match 7 | 3rd    | 14th   |
+| Match 8 | 6th    | 11th   |
 
+---
 
-### **Bracket Format:**
+## Grand Final
 
-Double-Elimination Bracket
-
-Teams are eliminated only after two match losses.
-
-### **Match Format:**
-
-All matches in Upper are Best-of-3, including the Grand Final.
-All matches of Lower are Best-of-One
-
-**Seeding**
-
-The 16 Group Stage qualifier teams are paired in the Opening Playoff Round (BO3) as follows:
-
-| Match \# | Team A | Team B |
-| ----- | ----- | ----- |
-| Match 1 | 1st Ranked Group A | 4th Ranked Group D |
-| Match 2 | 2nd Ranked Group D | 3rd Ranked Group A |
-| Match 3 | 1st Ranked Group D | 4th Ranked Group A |
-| Match 4 | 2nd Ranked Group A | 3rd Ranked Group D |
-| Match 5 | 2nd Ranked Group B | 3rd Ranked Group C |
-| Match 6 | 1st Ranked Group C | 4th Ranked Group B |
-| Match 7 | 2nd Ranked Group C | 3rd Ranked Group B |
-| Match 8 | 1st Ranked Group B | 4th Ranked Group C |
-
-## **Grand Final**
-
-The Upper Bracket winner and the Lower Bracket winner face each other in a Best-of-3 Grand Final.  
+The Upper Bracket winner and the Lower Bracket winner meet in a Best-of-3 Grand Final.
 No bracket reset.
 
 No map advantage.
 
-The Upper Bracket finalist is considered the higher seed by default.
+The Upper Bracket finalist is seeded highest by default.
 
-This match is winner-take-all.
+This match is single-elimination.
 
-## **Match Rules**
+---
 
-Standard CS2 competitive settings will apply.
+## Match Rules
 
-All Best-of-3 series use the MR12 format, with overtime (MR3, €10,000 start money) if required.
+Standard CS2 competitive settings apply.
 
-Forfeits will be handled under the Conduct & Admin Policies section of this rulebook.
+All Best-of-3 series use the MR12 format, with overtime (MR3, €10,000 starting money) if necessary.
 
-Half-time break shall be 3 minutes.
+Forfeits will be handled in accordance with the Conduct & Administrative Policies section of this rulebook.
 
-## **Match Scheduling and Punctuality**
+Half-time break is 3 minutes.
 
-A detailed match schedule (with approximate start times for each round) will be provided to teams. All teams are expected to follow the schedule closely. Matches will start as stated on the schedule; any changes must be approved by tournament admins.
+---
 
-Teams should be ready 15 minutes before the scheduled start of their match, with all players present and equipment set up. Being “ready” means all five players are in the game server (or at the designated staging area) and prepared to begin.
+## Match Schedule & Punctuality
 
-If a team is not fully present and ready by the match start time, the admins may grant a short grace period (up to 10 minutes). After that, the team may forfeit the first map or the entire match at the admin’s discretion. A no-show (failure to appear) will result in a match loss by forfeit.
+A detailed match schedule (with approximate start times for each round) will be communicated to teams. All teams are required to respect the schedule. Matches will begin at the times indicated in the schedule; any changes must be approved by tournament admins.
 
-To keep the tournament on track, minimal downtime is enforced: Teams will have 10 minutes breaks between maps in a Bo3, and 30 minutes breaks between consecutive matches. If a prior match runs long, subsequent matches may have reduced break times. Teams should request permission before leaving the tournament area if they have back-to-back matches, in case schedule adjustments are needed.
+Teams must be ready 15 minutes before their scheduled match start time, with all players present and equipment set up. Being "ready" means all five players are on the game server (or in the designated waiting area) and prepared to start.
 
-## **Game Rules & Match Settings**
+If a team is not fully present and ready at match start time, admins may grant a short grace period (up to 10 minutes). After this, the team may receive a forfeit loss on the first map or the entire match, at the admin's discretion. A no-show results in a forfeit loss.
 
-### **General Game Settings**
+To keep the tournament on schedule, downtime is kept to a minimum: teams will have 10 minutes between maps in a BO3, and 30 minutes between consecutive matches. If a previous match runs long, breaks for subsequent matches may be reduced. Teams must request permission before leaving the tournament area if they have back-to-back matches, in case of schedule adjustments.
 
-**Game Version:** Counter-Strike 2 (latest updated version on Steam) will be used for all matches and will not change, regardless of game updates.
+---
 
-**Platform:** All matches are played on LAN servers provided by the tournament. The servers will be configured with standard competitive settings. No third-party anti-cheat client is required, but tournament admins will actively monitor for any suspicious activity.
+## Game Rules & Match Settings
 
-**Account:** Players must log in with their own Steam/CS2 accounts. Account sharing is not permitted. Each account must own CS2 and not carry any VAC or competitive bans.
+### General Game Settings
+
+**Game Version:** Counter-Strike 2 (latest Steam version) will be used for all matches and will not change regardless of game updates.
+
+**Platform:** All matches are played on tournament-provided LAN servers. Servers will be configured with standard competitive settings. No third-party anti-cheat software is required, but tournament admins will actively monitor for any suspicious activity.
+
+**Account:** Players must log in with their own Steam/CS2 accounts. Account sharing is not permitted. Each account must own CS2 and must not have a VAC or competitive ban.
 
 All matches will be played using the official CS2 competitive configuration. Tournament servers will be hosted on LAN and configured by the admin team.
 
-### **Match Parameters:**
+### Match Parameters
 
-**Match Format:** MR12. First team to win 13 rounds takes the map. A maximum of 24 rounds in regulation (12 per half).
+**Match format:** MR12. The first team to win 13 rounds wins the map. A maximum of 24 rounds in regulation (12 per half).
 
-**Round Time:** 1 minute 55 seconds  
-**Bomb Timer:** 40 seconds  
-**Freeze Time:** 20 seconds  
-**Buy Time:** 20 seconds  
-**Start Money:** €800 on pistol round
+**Round time:** 1 minute 55 seconds
+**Bomb timer:** 40 seconds
+**Freeze time:** 20 seconds
+**Buy time:** 20 seconds
+**Starting money:** €800 at the pistol round
 
-### **Overtime Rules:**
+### Overtime Rules
 
-If the score is 12-12 after regulation, overtime will be played.
+If the score is 12-12 at the end of regulation, overtime will be played.
 
-**Overtime Format:** MR3. Each team plays 3 rounds per side.
+**Overtime format:** MR3. Each team plays 3 rounds per side.
 
-**Start Money in Overtime:** €10,000
+**Starting money in overtime:** €10,000
 
-Teams swap sides after 3 rounds.
+Teams switch sides after 3 rounds.
 
-If still tied after one overtime, additional OT periods are played until a winner is determined.
+If the tie persists after one overtime period, additional overtime periods are played until a winner is determined.
 
-## **Side & Map Selection**
+---
 
-### **Side Selection**
+## Side Selection & Map Veto
 
-**First Map of the Match:**  
-The higher-seeded team chooses map veto order
+### Side Selection
 
-**Subsequent Maps in a BO3:**  
-Side selection follows the veto process.  
+**First map of the match:**
+The higher-seeded team chooses the map veto order.
+
+**Subsequent maps in a BO3:**
+Side selection follows the veto process.
 When a team picks a map, the opponent chooses the starting side.
 
-**Overtime:**  
- Teams continue on the side they ended regulation.  
- After 3 OT rounds, sides are switched.  
- Overtime continues in increments of 3 rounds per side until a winner is determined.
+**Overtime:**
+Teams continue on the side they had at the end of regulation.
+After 3 overtime rounds, sides are swapped.
+Overtime continues in 3-round-per-side increments until a winner is determined.
 
-## **Map Pool**
+---
+
+## Map Pool
 
 The tournament will use the official Active Duty map pool at the time of the event.
 
 The map pool consists of 7 maps:
 
-Inferno  
-Mirage  
-Nuke  
-Ancient  
-Overpass  
-Dust2  
-Anubis
+- Inferno
+- Mirage
+- Nuke
+- Ancient
+- Overpass
+- Dust2
+- Anubis
 
-**Veto Process**
+### Veto Process
 
-All matches use a veto/pick system to determine maps and starting sides, following Valve competitive standards.
+All matches use a veto/pick system to determine maps and starting sides, in accordance with Valve's competitive standards.
 
-## **Seeding Determination**
+---
 
-All participating teams will be seeded before the tournament begins by the Organizer into four pots (with Pot 1 having the best-rated teams allocated, Pot 2 the second-best-rated, etc.) based on VRS, HLTV rank and competitive results.
+## Seeding
 
-In every match (Group Stage and Playoffs), the higher-seeded team is the team that belongs to a higher value pot and always has priority to choose map veto order
+All participating teams will be seeded by the Organizer before the start of the tournament based on VRS, HLTV ranking, and competitive results.
 
+In each match (Group Stage and Playoffs), the higher-seeded team (lower seed number) always has priority to choose the map veto order.
 
-**Best-of-1 (Bo1) Pick/Ban Process**
+### Best-of-1 (BO1) Pick/Ban Process
 
-The higher seed chooses to be Team A or Team B.
+The higher-seeded team chooses to be Team A or Team B.
 
-Team A removes 1 maps.
+1. Team A bans 1 map.
+2. Team B bans 1 map.
+3. Team A bans 1 map.
+4. Team B bans 1 map.
+5. Team A bans 1 map.
+6. Team B bans 1 map.
+7. The remaining map is played.
+8. The knife round winner chooses the starting side.
 
-Team B removes 1 maps.
+### Best-of-3 (BO3) Pick/Ban Process
 
-Team A removes 1 maps.
+The higher-seeded team chooses to be Team A or Team B.
 
-Team B removes 1 maps.
+1. Team A bans 1 map.
+2. Team B bans 1 map.
+3. Team A picks Map 1.
+4. Team B picks the starting side on Map 1.
+5. Team B picks Map 2.
+6. Team A picks the starting side on Map 2.
+7. Team B bans 1 map.
+8. Team A bans 1 map.
+9. The remaining map becomes Map 3 (decider).
+10. On the decider, the knife round winner chooses the starting side.
 
-Team A removes 1 maps.
+### Administration
 
-Team B removes 1 maps.
+The veto process will be supervised by a tournament admin. It may take place on stage, via the server, or using an online veto tool. Teams must make their ban/pick decisions promptly; a time limit of **1–2 minutes** per decision may be enforced.
 
-The remaining map is played.
+**Overtime:**
+If a map is tied 12-12 at the end of regulation, overtime will be played to determine a winner. Overtime settings: MR3, €10,000 starting money (each team plays up to 3 rounds per side in OT with €10k; if the tie persists after one OT, it repeats). Specifically, the server will be configured for a maximum of 6 overtime rounds (3 per half) and €10,000 for each OT half. Teams do not switch sides from the end of regulation to the start of overtime (they continue on the side they were finishing, then switch after 3 OT rounds). Overtime repeats until a winner is determined (a team wins more rounds in an OT set).
+Note: In the Group Stage, overtime will also be used to guarantee a decisive result (no draws).
 
-The winner of Knife round choose starting Side.
+**Match Server & Configuration:**
+Matches will be hosted on tournament servers with a standard configuration. Teams will have a short window to set up their personal settings (configs, adjustments) before going live. It is each team's responsibility to verify their game settings and equipment on the server before the match launches. Once both teams signal readiness, the match starts. If a team does not report a config/setting issue before the first round launches, the match will proceed assuming everything is in order.
 
+---
 
-## **Best-of-3 (Bo3) Pick/Ban Process**
+## Pause & Timeout Rules
 
-The higher seed chooses to be Team A or Team B.
+**Tactical Timeouts:**
+Each team is entitled to a maximum of 3 tactical timeouts per map (with 1 additional timeout in overtime), each lasting 30 seconds. These pauses are for team discussion and strategy. Teams may use the in-game timeout command (Call Tactical Timeout via the menu or via !pause/!tac in chat) to initiate them. Multiple timeouts may be used consecutively if needed (e.g., two in a row for a 1-minute break). Once a team has used its 3 timeouts on a map, no further tactical pauses are permitted for that map.
 
-Team A removes 1 map.
+**Technical Pauses:**
+If a player encounters a technical issue (e.g., hardware malfunction, disconnection, server lag), they must immediately type "!tech" in chat and pause the game (if possible). Players must not abuse the pause function; only genuine technical issues justify a pause. During a technical pause, players, coaches, and staff must remain at their stations and may not discuss game-related topics. The coach is not permitted to speak during a technical pause.
 
-Team B removes 1 map.
+**Admin Pauses:**
+Tournament admins may pause a match at any time from the server if an issue is detected. Admin pauses may be used to resolve disputes, fix server issues, or manage audience interference. Players must remain ready during admin pauses and follow given instructions. During an admin pause, players, coaches, and staff must remain at their stations and may not discuss game-related topics. The coach is not permitted to speak during an admin pause.
 
-Team A picks Map 1\.
+**Pause Duration:**
+Tactical timeouts are set at 30 seconds (unless multiple are called consecutively). Technical pauses will last only as long as necessary to resolve the issue. If a team cannot resolve an issue within a reasonable time (generally 10 minutes maximum), admins may force the match to resume or, in extreme cases, issue a forfeit if the team cannot continue playing. Teams must have spare equipment ready to be set up quickly to avoid long delays.
 
-Team B chooses the starting side on Map 1\.
+---
 
-Team B picks Map 2\.
+## Match Interruptions & Recovery
 
-Team A chooses the starting side on Map 2\.
+We aim for smooth matches, but in the event of interruptions (server crash, power outage, network issues, etc.), the following rules apply to maintain competitive integrity:
 
-Team B removes 1 map.
+**Server Crash / All Players Disconnect:**
+If the server crashes or all players disconnect simultaneously, the ongoing round is cancelled and will be replayed (started with the same score as before the round). The server will be restarted as needed, and an admin will use CS2 match recovery tools (if available) to restore the match to the last completed round. Managers, coaches, or staff members are not permitted to intervene with players during this process, including via phone, stream, or external information to reconstruct the round state. Any violation of this rule may result in round forfeits, map forfeits, or disqualification, at the tournament administration's discretion.
 
-Team A removes 1 map.
+**Player Disconnections:**
+If a single player disconnects or suffers a hardware failure, the team may request a technical pause (see above). If the disconnection occurs very early in a round (in the first moments and before any significant action), an admin may decide to restart the round once the player reconnects. "Before any significant action" means: no damage dealt, no kills, and no engagement revealing strategic information.
 
-The remaining map becomes Map 3 (decider).
+If the round was already underway (if a significant action occurred before the pause), the round generally continues with the remaining 4 players. "Significant action" includes damage, kills, or the clear revelation of strategic information (e.g., grenade usage, area control).
 
-On Decider, the winner of Knife round choose starting Side.
+The disconnected player may reconnect as soon as possible, but the round will not be replayed if such action has occurred.
 
-## **Administration**
+If multiple players from a team disconnect or a major issue occurs mid-round heavily affecting its outcome, admins reserve the right to replay the round. For example, if a bomb-plant situation was underway and the server lagged, the round could be restored or replayed depending on the situation.
 
-The veto process will be supervised by a tournament admin. It may be conducted on stage, through the server, or via an online veto tool. Teams must make their ban/pick decisions promptly; a time limit of **1-2 minutes** per decision may be enforced.
+If a technical issue is identified after a round ends (e.g., a player was lagging but did not disconnect), the round result stands unless admins determine that the issue severely affected fairness.
 
-**Overtime:**  
-If a map is tied 12-12 at the end of regulation, overtime will be played to determine a winner. Overtime settings: MR3, €10,000 starting money (each team plays up to 3 rounds on each side in OT, with 10k money; if still tied after one OT, it repeats). Specifically, the server will be configured for 6 maximum overtime rounds (3 per half) and €10,000 for each OT half. Teams will not switch sides from the end of regulation for the start of overtime (they continue on the side they finished on, then swap after 3 OT rounds). Overtime repeats until a winner is decided (one team wins more rounds in an OT series).  
- Note: In the group stage, overtime will also be used to ensure a decisive result (no draws).
+**Match Medic:**
+CS2 competitive mode includes a match restoration feature (match medic). Admins will use match-medic wherever possible to load the game state (score, economy, player positions if available) as it was before the interruption. If match-medic fails or is not possible for the exact state, the admin may restore only the round score and have teams start normally for the next round. In extreme cases, a full map restart could be considered, but only if a significant portion of the map was affected and both teams agree or deem it necessary.
 
-**Match Server and Config:**  
-Matches will be hosted on provided tournament servers with a standard config. Teams will have a brief window to set up their personal configurations (exec configs, adjust settings) before live play. It is each team’s responsibility to verify their game settings and equipment on the server before the match goes live. Once both teams signal readiness, the match will start. If a team fails to raise any config/setting issue before the first round goes live, the match will proceed under the assumption that all is in order.
+**No Restart for Purchase Errors / Team Errors:**
+If a round is disrupted due to team error (e.g., a player accidentally buys the wrong weapon or disconnects by alt-tabbing), the round will not be restarted. Play continues and the error is final; admins will not consider this a valid reason to cancel a round.
 
-## **Pauses and Timeout Rules**
+---
 
-**Tactical Pauses (Timeouts):**  
-Each team is allowed up to 3 tactical timeouts per map (with 1 additional timeout in Overtime), each lasting 30 seconds. These pauses are to be used for team discussion and strategy. Teams may use the in-game timeout command (Call Tactical Timeout via the menu or via !pause/!tac in chat) to initiate these. Multiple timeouts may be used in a row if needed (for example, using two back-to-back to have a 1-minute pause). Once a team has exhausted its 3 timeouts in a map, no further tactical pauses are allowed for that map.
+## Map Bugs & Glitches
 
-**Technical Pauses:**  
-If a player experiences a technical issue (for example, hardware malfunction, disconnect, server lag), they should immediately type “\!tech” in chat and pause the game (if possible). Players must not abuse the pause function; only legitimate technical issues warrant a pause. During a technical pause, players, coaches, and team staff must remain at their positions and may not discuss any game-related topics. The coach is not permitted to speak during a technical pause.
+**Prohibited Exploits:**
+The intentional use of any game-breaking bug, glitch, or exploit is strictly prohibited. This includes, but is not limited to:
+Using any collision bug to see or move through walls, floors, ceilings, or any unintended area of the map (places players are not supposed to access).
+Pixel walking (standing on invisible map edges or pixels allowing floating or unintended viewpoints) is prohibited.
+Any boost or stack allowing players to look over or through solid map areas that the designers did not intend to be visible. (Teammate boosts are generally permitted as long as they do not exploit a glitch; boosts resulting in clipping through walls or the skybox are illegal.)
+Using scripts or macros to gain an unfair movement advantage (e.g., rapid-jump glitches beyond normal jumping techniques).
 
-**Admin Pauses:**  
-Tournament administrators can pause a match at any time from the server side if an issue is observed. Admin pauses can be used to resolve disputes, fix server problems, or handle audience interference. Players must remain ready during admin pauses and follow any instructions given. During an admin pause, players, coaches, and team staff must remain at their positions and may not discuss any game-related topics. The coach is not permitted to speak during a technical pause.
+**Permitted Maneuvers:**
+Certain game behaviors are permitted if considered part of normal gameplay. For example, standing on a teammate's shoulders is generally allowed (unless stated otherwise above), and "surfing" on certain map elements is allowed if it does not involve a glitch. Shooting through walls or objects in accordance with game physics (wallbangs) and defusing through smokes or thin walls (if the game permits) are legal.
 
-**Duration of Pauses:**  
-Tactical timeouts are fixed at 30 seconds (unless sequentially called). Technical pauses will last only as long as necessary to resolve the issue. If a team cannot fix a problem within a reasonable time (generally 10 minutes maximum), the admins may force the match to continue or, in extreme cases, issue a forfeit if the team cannot continue playing. Teams should have any backup equipment ready to swap in quickly to avoid long delays.
+**Newly Discovered Bugs:**
+If a critical bug is discovered during the event (e.g., a new bug in a recent CS2 update), admins will communicate a ruling. Teams must consult admins if unsure whether a trick or spot is legal. When in doubt, ask first. Use of an exploit not explicitly listed but clearly contrary to fair play or map design will still be penalized at admin discretion.
 
-## **Match Interruptions & Recovery**
+---
 
-We aim for smooth matches, but in case of interruptions (server crash, power outage, network issues, etc.), the following rules apply to maintain competitive integrity:
+## Player Equipment & Setup
 
-**Server Crash / All Players Drop:**  
-If the server crashes or all players disconnect simultaneously, the round in progress is nullified and will be replayed (started at the same score as before the round). The server will be restarted if needed, and an admin will use CS2’s match recovery tools (if available) to restore the match to the last completed round. Managers, coaches, or team staff are not permitted to intervene with players during this process, including the use of phones, streams, or external information to recreate the round state. Any violation of this rule may result in round forfeits, map forfeits, or disqualification at the discretion of the tournament administration.
+**Provided Equipment:**
+The venue will not provide any gaming stations. Each player must bring their own equipment (PC, peripherals, monitor, headset, etc.). Only a table, a height-adjustable electric chair, a network connection, and a power supply will be provided on-site.
 
-**Player Disconnects:**  
-If a single player disconnects or has a hardware failure, the team can request a technical pause (as above). If the disconnect occurs very early in a round (within the first moments and before any significant action), an admin may decide to restart that round once the player reconnects. “Before any significant action” is defined as no damage dealt, no kills, and no engagement that reveals strategic information.
+**Player-Provided Equipment:**
+Players must bring their own peripherals: mouse, keyboard, mousepad, and in-ear monitors. Using your own equipment ensures comfort and familiarity.
 
-If the round was already underway (if any significant action occurred before the pause), the round usually continues with the remaining 4 players. “Significant action” includes damage, kills, or clear strategic information being revealed (e.g., utility usage, map control gained).
+**Setup Time:**
+At the start of each match (or when changing stations), teams will have time to set up their equipment, configure their settings, and test the setup (generally ~5–10 minutes). This includes adjusting Windows settings, launching CS2 to set video and audio options, and running configs or buy binds. Teams are encouraged to set up quickly to respect the schedule.
 
-The disconnected player may rejoin as soon as possible, but the round will not be replayed if such action occurred.
+**Voice Communication:**
+A local TeamSpeak server will be provided and hosted on the tournament network for teams to use. During matches, all voice communications must go through approved local software or in-game systems.
 
-If multiple players on a team disconnect or a major problem occurs mid-round such that the outcome of the round is heavily impacted or unclear, admins reserve the right to replay the round. For example, if a bomb plant situation was ongoing and the server lagged out, that round might be restored or replayed depending on the situation.
+**Coach Setup:**
+Coaches will be allowed in a designated seating area. If voice communication is used, the coach may join the team's channel. In accordance with Valve's competitive rules, coaches are only permitted to communicate during half-time breaks and timeouts (not during live rounds). Coaches must remain silent during live play except during permitted periods (tactical timeouts). Excessive coaching during rounds may result in penalties.
 
-If a technical issue is identified after a round is completed (e.g., a player was lagging but did not disconnect), the round result stands unless the admins determine the issue severely affected fairness.
+**Recording Devices:**
+Players are not permitted to have recording or communication devices in the competition area (no mobile phones, smartwatches, etc., during an active match). These must be handed to team staff or left in a secure location during play. The only permitted communication is via the in-game or approved voice channel with teammates and the coach.
 
-**Match Medics:**  
-CS2’s competitive mode includes a match restore (match medic) feature. Admins will use match-medic whenever possible to load the game state (score, economy, player positions if available) to what it was before the interruption. If match-medic fails or is not possible for the exact state, the admin may restore the round score only and have teams play a normal start for the next round. In extreme cases, a whole map restart could be considered, but only if a significant portion of the map was impacted and both teams agree or rule it necessary.
+**Dress Code:**
+There is no strict dress code for this event, but teams are encouraged to wear matching jerseys or outfits if available. Offensive or obscene clothing is not permitted.
 
-**No Replay for Misbuys/Team Error:**  
-If a round is disrupted due to a team’s own error (e.g., a player accidentally buys the wrong weapon or disconnects due to alt-tabbing), the round will not be restarted. The game continues, and the mistake stands, admins will not consider this a valid reason to rewind a round.
+---
 
-## **Map Bugs and Glitches**
+## Conduct & Competitive Integrity
 
-**Forbidden Exploits:**  
-The intentional use of any game-breaking bugs, glitches, or exploits is strictly prohibited. This includes, but is not limited to:  
-Using any clipping bug to see or move through walls, floors, ceilings or otherwise unintended areas of the map (places players are not supposed to reach).  
-Pixel walking (standing on invisible map edges or pixels that allow hovering or an unintended vantage point) is forbidden.  
-Any boosts or stacks that allow looking over or through solid areas of the map that designers did not intend to be peeked over. (Boosting on teammates is generally allowed as long as it doesn’t abuse a glitch; boosts that result in clipping your view through walls or skybox are illegal).  
-Using scripts or macros to gain an unfair movement advantage (e.g., fast jump glitches beyond normal jumping techniques).
+### Fair Play & Sportsmanship
 
-**Allowed Maneuvers:**  
-Some in-game quirks are allowed if they are considered part of normal gameplay. For example, standing on a teammate’s shoulders is allowed in general (except as noted above), and “surfing” on certain map elements is allowed if it doesn’t involve a glitch. Shooting through walls or objects as allowed by game physics (wallbangs) and defusing through smokes or thin walls (if the game permits it) are legal.
+All participants are required to compete with integrity and treat others with respect. The following guidelines will be enforced:
 
-**Newly Discovered Bugs:**  
-If a critical bug is discovered during the event (for instance, a new one in a recent CS2 update), the admins will communicate a ruling on it. Teams are expected to check with admins if unsure about any trick or spot being legal. When in doubt, ask first. Using an exploit that is not explicitly listed but clearly goes against fair play or map design will still be penalized at the admins’ discretion.
+**No Cheating:**
+Any form of cheating will result in immediate disqualification and potential bans. Cheating includes the use of any external hack, script, or modification providing an unfair advantage (aimbot, wallhack, trigger bots, no-flash, radar hacks, etc.). The tournament will have admins observing matches and VAC-enabled servers to detect cheating. If a player is caught cheating, they will be banned from this event and potentially from future events (a standard ban period of two years applies for serious infractions). Entire teams may be disqualified depending on the situation.
 
-## **Player Equipment and Setup**
+**No Ghosting:**
+As this is an in-person LAN, ghosting (receiving outside information about the ongoing match) is strictly prohibited. Spectators and eliminated players must not communicate with players in an active match. Coaches are only permitted to communicate within the allowed limits. Any attempt by a third party to relay information to players will result in that spectator's ejection and potential penalties for the team.
 
-**Provided Equipment:**  
-The venue will not provide any gaming stations. Each player must bring their own equipment (PC, peripherals, monitor, headset, etc.). Only a table, an electrically height-adjustable chair, a network connection, and a power supply will be provided on site.
+**No Game Bug Exploitation:**
+As stated in the Map Bugs & Glitches section, deliberate exploitation of a known bug or glitch is considered cheating and will be penalized. Minor unintentional behaviors will be judged by admins, and if we determine that a team gained a decisive advantage through an exploit, the round (or match) may be forfeited in favor of the opponent or replayed, and warnings or disqualifications may be issued.
 
-**Player-Provided Gear:**  
-Players must bring their own peripherals: this includes mouse, keyboard, mousepad and in-ear earphones. Bringing your own gear ensures comfort and familiarity.
+**Forbidden Scripts/Configs:**
+Players may only use in-game competitive config settings and binds. Jump-throw binds, buy binds, and standard alias commands are permitted. Illegal scripts (e.g., recoil scripts, rapid-fire macros, etc.) are prohibited. Any config file containing forbidden commands (even unused) may result in a penalty, so players must review their configs. Software macros (via mouse or keyboard drivers) reproducing forbidden scripts are also banned.
 
-**Setup Time:**  
-At the start of each match (or when moving to a new station), teams will be given time to set up their gear, configure settings, and test the setup (typically \~5-10 minutes). This includes adjusting Windows settings, launching CS2 to set video and audio options, and executing config or buying binds. Teams are encouraged to set up quickly to stay on schedule.
+**In-Game Communication:**
+Players must refrain from using general chat during matches except for necessary communications (such as a polite "gl hf," or calling a technical timeout, etc.). Abuse of general chat (notably to taunt or complain) may result in penalties. Harassment, extreme profanity, or discriminatory language in chat or voice is not tolerated.
 
-**Voice Communication:**  
-A local TeamSpeak server will be provided and hosted on the tournament network for teams to use. During matches, all voice communication must take place through approved local software or in-game systems.
+**Player Behavior:**
+Sportsmanlike behavior is expected at all times. This means no harassment, bullying, or unsportsmanlike behavior toward opponents, teammates, staff, or spectators. This includes insults, slurs, or any form of toxic behavior. Any serious unsportsmanlike incident (e.g., throwing equipment, hate speech) may result in a round penalty, map forfeit, or disqualification depending on severity (and potentially ejection from the venue). The tournament aims for a friendly and respectful atmosphere: celebrate victories with humility and accept defeats gracefully.
 
-**Coach Setup:**  
-Coaches will be allowed to stand in a designated seating area. If voice chat is used, the coach can join the team’s channel. Note that by Valve’s competitive rules, coaches are only allowed to communicate during half time pauses and timeouts (not during live rounds). Coaches must remain silent during live gameplay, except in the allowed periods (tactical timeouts). Excessive mid-round coaching could lead to penalties.
+**Respect for Officials:**
+Teams must promptly obey instructions from tournament admins and referees. This includes pausing the game when asked, restarting rounds as directed, or accepting any administrative decision. Arguing excessively or disrespecting an official may itself result in penalties. In case of disagreement or protest, team captains must calmly report this to admins at the appropriate time (not mid-round). Attempting to deceive or mislead admins with false information is considered misconduct and will be penalized.
 
-**Recording Devices:**  
-Players are not allowed to have any recording or communication devices at the competition area (no cell phones, smart watches, etc., during an active match). These must be surrendered to team staff or left in a secure place during play. The only communication permitted is via the in-game or approved voice channel with teammates and coach.
+---
 
-**Attire:**  
-There is no strict uniform requirement for this event, but teams are encouraged to wear matching jerseys or apparel if available. Offensive or obscene clothing is not allowed.
+## Rule Enforcement & Penalties
 
-**Conduct & Competition Integrity**
+**Admin Decisions:**
+The head admin has the final say on all rule enforcement matters, match outcomes, and disputes. We will strive to be fair and consistent, referring to this rulebook. In unforeseen circumstances, admins will do their best to maintain competitive integrity and sportsmanship. By participating, teams accept that admin decisions are final.
 
-### **Fair Play & Sportsmanship**
+**Penalties:**
+In case of a rule violation, possible penalties include, but are not limited to: warnings, round loss, map loss, score adjustments, match forfeit, tournament disqualification, and/or future bans. The penalty will be proportional to the infraction. Minor first-time infractions may warrant a warning, while clear and intentional cheating results in immediate disqualification and a ban.
 
-All participants are expected to compete with integrity and treat others with respect. The following guidelines will be enforced:
+**Technical Forfeits:**
+A team may forfeit a map or match if unable or refusing to continue, or if a serious rule violation forces the forfeit. For example, not having five players ready to play will be treated as a forfeit loss for that map/match. A forfeited map in a BO3 is recorded as a 0-1 loss (or 0-2 if the entire match is forfeited). The opponent receives either a bye or a default win.
 
-**No Cheating:**  
-Any form of cheating will result in immediate disqualification and potential bans. Cheating includes use of any external hacks, scripts, or modifications that give an unfair advantage (aimbot, wallhack, trigger bots, no-flash, radar hacks, etc.). The tournament will have admins observing matches and VAC-enabled servers to detect cheats. If a player is caught cheating, they will be banned from this event and potentially future events (a standard ban period is two years for serious offenses). Entire teams may be disqualified depending on the situation.
+**Protests:**
+If a team believes a rule has been violated by the opponent (e.g., exploit usage) or that an unfair situation has occurred, they must notify an admin immediately, ideally by pausing the game or during half-time/end of map. Do not wait until the end of the match to report an issue that was evident during play. Admins will review evidence (demos, logs) if necessary and render their decision. Referee rulings (e.g., whether a bug had an impact) are not grounds for extended debate, and the admin's decision is final after a protest.
 
-**No Ghosting:**  
-Because this is an in-person LAN, ghosting (receiving outside information about the game in progress) is strictly prohibited. Spectators and eliminated players must not communicate with players in an ongoing match. Coaches are only permitted to communicate as allowed. Any attempt by an outside party to relay information to players will lead to ejection of that spectator and potential penalties for the team.
+**Result Integrity:**
+All match results are considered official as reported by the server and admins. Any attempt to falsify a result, collude with another team to manipulate results, or intentionally lose (match-fixing) is strictly prohibited. Such behavior undermines the integrity of the competition and will result in immediate disqualification and potential reporting to Valve (which could lead to severe competitive penalties).
 
-**No Exploiting Game Bugs:**  
-As covered in Map Bugs and Glitches, deliberately abusing a known glitch or bug is considered cheating and will be penalized. Minor unintended behaviors will be judged by the admins and if we determine a team gained round-winning advantage from an exploit, the round (or match) may be forfeited to the opponent or rematched, and warnings or disqualifications issued as appropriate.
+**Betting:**
+Players, coaches, and team staff are not permitted to bet on matches at this tournament. Any association with betting fraud or gambling on results will result in exclusion from the event.
 
-**Forbidden Scripts/Configs:**  
-Players may only use config settings and binds that are allowed in competitive play. Simple jump-throw binds, buy binds, and standard alias commands are allowed. Illegal scripts (e.g., recoil scripts, rapid-fire macros, etc.) are forbidden. Any config file found to have forbidden commands (even if not used) can lead to a penalty, so players should double-check their configs. Software-based macros (through mouse or keyboard drivers) that replicate disallowed scripts are also banned.
+---
 
-**In-Game Communication:**  
-Players should refrain from all chat during matches except for necessary communications (such as polite gl hf, or calling a technical timeout, etc.). Abuse of all-chat (especially to taunt or complain) can lead to penalties. Harassment, extreme profanity, or discriminatory language in chat or voice is not tolerated.
+## Additional Provisions
 
-**Player Behavior:**  
-Sportsmanlike conduct is expected at all times. This means no harassment, bullying, or unsportsmanlike behavior toward opponents, teammates, staff, or spectators. This includes insults, slurs, or any form of toxic behavior. Any incident of serious unsportsmanlike conduct (e.g. throwing equipment, using hate speech) may result in a round penalty, map forfeit, or disqualification depending on severity (and possibly removal from the venue). The tournament wants a friendly, respectful atmosphere, so celebrate victories humbly and accept losses gracefully.
+**Media & Streams:**
+Event organizers may stream matches on an official channel and have on-site commentators. Teams and players are not permitted to independently stream their point of view or matches during the event without explicit organizer approval. Participants may be invited to take part in media activities (interviews, photos), and unreasonable refusal may be considered unsportsmanlike.
 
-**Compliance with Officials:**  
-Teams must obey instructions from tournament admins and referees promptly. This includes pausing when told, restarting rounds when directed, or any administrative decisions. Arguing excessively with or disrespecting an official can itself result in penalties. If you have a disagreement or protest, captains should calmly raise it to admins at an appropriate time (not mid-round). The attempt to mislead or deceive admins with false information is considered misconduct and will be sanctioned.
+**Photo/Video Rights:**
+By participating in the event, players consent to being photographed or filmed by event staff or accredited media. Images may be used in recaps, promotional materials, and on social media. If a player has serious concerns (privacy or otherwise), please inform admins in advance.
 
-## **Rule Enforcement & Penalties**
+**Health & Safety:**
+This is a LAN environment in a public venue. Players must take care of their personal belongings; the organizer is not responsible for lost or stolen items (a secure storage space may be provided to teams upon request). Please respect venue property, as any damage caused by a player will be the team's responsibility. Respect all safety rules (e.g., emergency exits, no indoor smoking). We encourage players to stay hydrated and get sufficient rest.
 
-**Admin Decisions:**  
-The head admin has final say on all matters of rule enforcement, match results, and disputes. We will strive to be fair and consistent, referencing this rulebook. In unforeseen circumstances, admins will use their best judgment to uphold competitive integrity and sportsmanship. By participating, teams agree that the admins’ decisions are final.
+**Alcohol/Drugs:**
+During competition, players are not permitted to consume alcohol. Any player appearing intoxicated may be reprimanded or removed by admins for their own safety and fair play. The use of any illegal drugs is absolutely prohibited on the premises.
 
-**Penalties:**  
-If a rule is broken, possible penalties include but are not limited to: warnings, loss of round, loss of map, score adjustments, forfeiture of a match, disqualification from the tournament, and/or future bans. The penalty will fit the offense. Minor first-time offenses might get a warning, while clear malicious cheating is an immediate disqualification and ban.
+---
 
-**Technical Forfeits:**  
-A team may forfeit a map or match if they are unable or unwilling to continue, or if a serious rule violation forces a forfeit. For example, not having five players ready to play will be treated as a forfeit loss for that map/match. A forfeited map in a Bo3 is recorded as a 0-1 loss (or 0-2 if forfeiting an entire match). The opponent either gets a bye or a default win.
+## Prize Distribution
 
-**Protests:**  
-If a team believes a rule was violated by the opponent (e.g., exploit usage) or there was an unfair situation, they should notify an admin immediately, ideally by pausing the game or during half-time/end of map. Do not wait until after the match to raise an issue that was evident during play. The admins will review evidence (demos, logs) if needed and make a ruling. Note that judgment calls by referees (such as whether a bug had an impact) are not grounds for lengthy debate, and the admin decision is final after a protest.
+The Hoplan 2026 tournament prize pool is funded by the organizer.
 
-**Integrity of Results:**  
-All match results are considered official as reported by the server and admins. Any attempt to fake a match result, collude with another team to manipulate results, or intentionally lose (match-fixing) is strictly forbidden. Such behavior undermines the competition’s integrity and will result in immediate disqualification and potential reporting to Valve (which could carry severe competitive bans).
+Each team pays a registration fee of **€250 VAT included**.
 
-**Betting:**  
-Players, coaches, and team staff are not allowed to bet on matches in this tournament. Any association with betting fraud or gambling on the outcome will lead to removal from the event.
+### Prize Pool by Number of Teams
 
-## **Additional Provisions**
+- **32 teams:** €4,000 total prize pool
 
-**Media & Streams:**  
-The event organizers may stream matches on an official channel and have casting talent on-site. Teams and players are not allowed to stream their POV or matches independently during the event unless explicitly allowed by the organizer. Participants may be asked to partake in media activities (interviews, photos), and refusal without good reason may be considered unsportsmanlike.
+The more teams registered, the higher the prize pool.
 
-**Photo/Video Release:**  
-By entering the event, players consent to being photographed or filmed by event staff or accredited media. The footage may be used in recaps, promotional materials, and social media. If any player has serious concerns (privacy or otherwise), please inform the admins in advance.
+### Prize Pool Breakdown (€)
 
-**Health & Safety:**  
-This is a LAN environment in a public venue. Players should take care of their personal belongings; the organizer is not responsible for lost or stolen items (a secure storage area can be provided for teams upon request). Please respect venue property, as any damage caused by a player will be the team’s responsibility. Follow all safety rules (e.g., emergency exits, no smoking indoors). We encourage players to stay hydrated and get adequate rest.
+| Place | Prize |
+| ----- | ----- |
+| 1st place | €1,700 |
+| 2nd place | €1,200 |
+| 3rd place | €600 |
 
-**Alcohol/Drugs:**  
-Nexus Gamers Pub is a bar venue; however, while competing, players are not allowed to consume alcohol. Any player appearing intoxicated may be reprimanded or removed by admins for their own safety and fair play. Absolutely no illegal drug use is permitted on the premises.
+### Payment Terms
 
-## **Prize Distribution**
+All prizes are paid in EUR. Teams will be paid by bank transfer within 90 days of the event (subject to required tax forms or invoice processing). The prize is intended to be distributed among the five players (and coach, at the team's discretion). It is the team's responsibility to agree on internal distributions with coaches or organizations in advance, as organizers will send the full amount to the team's designated payee (captain or organization) and consider the obligation fulfilled.
 
-The Hoplan 2026 tournament prize pool is a base prize pool funded by the organizer.
+Prizes will be awarded and paid in accordance with Romanian law and will be subject to all applicable taxes imposed by said law. The Organizer will only process payments after verifying the eligibility of winning teams and collecting all necessary documents, such as invoices, bank details, and identification. Any tax obligations arising from winnings are the responsibility of the recipients, in accordance with Romanian legal requirements.
 
-Each team pays a registration fee of **€250 VAT Include**.
+If a team is disqualified or withdraws at an advanced stage, they may forfeit their claim to the prize at the organizer's discretion (for example, if a team is caught cheating, they will receive no prize even if they technically reached a ranking).
 
-### **Prize Pool by Team Count**
+---
 
-* **24 teams:** €3,000 total prize pool
+## Refunds, Cancellations, Travel & Force Majeure
 
-The more teams that register, the larger the prize pool grows.
+### Team Withdrawals
 
-### **Prize Breakdown (€)**
+Teams withdrawing after finalizing their registration may be refunded upon reasonable request. Any refund in this case is subject to a **€50 administrative fee** to cover processing costs.
 
-1st Place: €1,500  
-2nd Place: €1,000 
-3rd Place: €500
+Teams withdrawing within the **14 days preceding the event** are not eligible for any refund under any circumstance.
 
-### **Payment Details**
+### Event Cancellation or Postponement
 
-All prizes are paid in EUR. Teams will be paid via bank transfer within 90 days after the event (subject to required tax forms or invoice processing). The prize money is intended to be split among the five players (and coach, at the team’s discretion). It is the team’s responsibility to agree on any internal splits with coaches or organizations beforehand, as the organizers will send the full prize to the team’s designated payee (team captain or organization) and will consider the obligation fulfilled.
+In the unlikely event that **Hoplan 2026** is postponed or cancelled due to unforeseen circumstances (including but not limited to natural disasters, venue failure, national emergencies, or health crises), organizers will offer teams the option of a full refund or transfer of registration to the rescheduled date, where applicable.
 
-Prize money will be awarded and disbursed in accordance with Romanian law and will be subject to all applicable taxation as mandated by said law. The Organizer will process payments only after verifying the eligibility of the winning teams and collecting all necessary documentation, such as invoices, payment details, and identification documents. Any tax obligations arising from prize winnings are the responsibility of the recipients, in compliance with Romanian legal requirements.
+### Travel & Accommodation
 
-If a team is disqualified or forfeits in the late stage, they may forfeit their claim to the prize at the organizer’s discretion (for example, if a team is caught cheating, they will receive no prize even if they technically achieved a placement).
+All travel arrangements, accommodation bookings, and related expenses are the sole responsibility of participating teams. The Organizer will not provide, arrange, or reimburse any transportation, accommodation, meal, or personal expenses for participants. Teams must arrive at the venue on time for their scheduled matches and ensure all players can attend the event in person for the full duration of the tournament. Organizers will not be responsible for any non-refundable travel or accommodation costs incurred by teams. We recommend all participants use flexible booking options where possible.
 
-## **Refunds, Cancellations, Travel & Force Majeure**
+### Force Majeure
 
-### **Team Withdrawals:**
+Organizers shall not be liable for any failure or delay in fulfilling their obligations under these rules if such failure or delay is caused by circumstances beyond their reasonable control, including but not limited to: war, terrorism, riot, embargo, act of civil or military authority, fire, flood, accident, pandemic, strike, or interruption of telecommunications or internet services.
 
-Teams that withdraw after completing registration can be refunded upon reasonable request. Any refund in this case is subject to a €50 processing fee to cover administrative costs.
+---
 
-Teams withdrawing within **14 days of the event** are not eligible for any refund, regardless of circumstance.
+## Spirit of the Rules & Rulebook Amendments
 
-### **Event Cancellation or Postponement:**
+This rulebook is designed to ensure that **Hoplan 2026** runs smoothly, competitively, and fairly for all participants. All teams and players are required to read, understand, and comply with these rules. Organizing staff will be available throughout the event to answer questions or provide clarifications as needed.
 
-In the unlikely event that **Hoplan 2026** is postponed or canceled due to unforeseen circumstances (including but not limited to natural disasters, venue failure, national emergencies, or health crises), the organizers will:  
-Offer teams the option of a full refund, or transfer the registration to the rescheduled date, if applicable.
+**IMPORTANT:**
+The event organizers reserve the right to modify or amend this rulebook at any time. All changes will be publicly posted with updates to this document and will be made available to all participants via Hoplan.gg and the official Hoplan Discord server.
 
-### **Travel and Accommodation:**
-
-All travel arrangements, accommodation bookings, and related expenses are the sole responsibility of the attending teams. The Organizer will not provide, arrange, or reimburse transportation, lodging, meals, or any other personal expenses for participants. Teams are expected to arrive at the venue on time for their scheduled matches and must ensure that all players are able to attend the event in person for the duration of the tournament. Organizers will not be responsible for non-refundable travel or accommodation costs incurred by teams. We recommend all participants use flexible booking options wherever possible.
-
-### **Force Majeure Clause:**
-
-The organizers shall not be held liable for any failure or delay in performance of obligations under these rules if such failure or delay is caused by circumstances beyond reasonable control, including but not limited to: war, terrorism, riot, embargo, act of civil or military authority, fire, flood, accident, pandemic, strike, or interruption in telecommunications or internet services.
-
-## **Spirit of the Rules & Rule Changes**
-
-This rulebook is designed to ensure that **Hoplan 2026** runs smoothly, competitively, and fairly for all participants. All teams and players are expected to read, understand, and comply with these rules. The organizing staff will be available throughout the event to answer questions or provide clarifications as needed.
-
-**IMPORTANT:**  
-The event organizers reserve the right to amend or modify this rulebook at any time. All changes will be published publicly with updates to this document and will be made available to all participants through the Hoplan.gg website and the official Hoplan Discord server.
-
-By registering and participating in the tournament, all players and teams agree to:  
-Abide by all the rules stated in this document.
-
-Respect the decisions made by tournament officials, which are final.
-
+By registering and participating in the tournament, all players and teams agree to:
+- Comply with all rules set forth in this document.
+- Respect the decisions made by tournament officials, which are final.

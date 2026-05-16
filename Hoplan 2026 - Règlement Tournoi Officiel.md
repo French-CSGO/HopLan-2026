@@ -521,9 +521,9 @@ Plus le nombre d'équipes inscrites est élevé, plus le prize pool augmente.
 
 ### Répartition du prize pool (€)
 
-1ère place : €1,700
-2ème place : €1,200
-3ème place : €600
+1ère place : €2,000
+2ème place : €1,300
+3ème place : €700
 
 ### Modalités de paiement
 

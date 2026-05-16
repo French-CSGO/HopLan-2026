@@ -501,9 +501,9 @@ The more teams registered, the higher the prize pool.
 
 | Place | Prize |
 | ----- | ----- |
-| 1st place | €1,700 |
-| 2nd place | €1,200 |
-| 3rd place | €600 |
+| 1st place | €2,000 |
+| 2nd place | €1,300 |
+| 3rd place | €700 |
 
 ### Payment Terms
 
